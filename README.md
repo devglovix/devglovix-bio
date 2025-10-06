@@ -1,73 +1,127 @@
-# Welcome to your Lovable project
+# 🧠 DevGlovix
 
-## Project info
+**Software services powered by innovation and handled by experienced specialists.**
 
-**URL**: https://lovable.dev/projects/1e743afe-1c97-4cb7-985d-d434d7f54eba
+DevGlovix is a modern software service studio delivering production-ready Web, Mobile, Desktop, and Infrastructure solutions.  
+We combine polished UI/UX with reliable engineering practices to build scalable products and deliver client projects with craftsmanship and clarity.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Overview
 
-**Use Lovable**
+**Founder:** Emeka Divine Emeka  
+**Parent Company:** Xonvix (DevGlovix is a subsidiary)  
+**Contact:** devglovix@gmail.com  
+**Phone / WhatsApp:** +234 903 121 5988  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1e743afe-1c97-4cb7-985d-d434d7f54eba) and start prompting.
+**Socials:**  
+🌐 [Instagram](https://www.instagram.com/devglovix)  
+🌐 [Facebook](https://www.facebook.com/profile.php?id=61581115486209)  
+🌐 [X / Twitter](https://x.com/devglovix)  
+🌐 [Telegram](https://t.me/devglovixofficial)  
+🌐 [GitHub](https://github.com/devglovix)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧭 About DevGlovix
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+DevGlovix stands as a **forward-thinking software solutions company** created to empower innovation and digital craftsmanship.  
+We design and engineer custom software experiences for businesses of all sizes — blending aesthetics, logic, and performance into every product we touch.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+We work with **experienced specialists** with at least **3+ years of proven experience**, ensuring every service is handled by experts who specialize in specific fields.  
+This enhances **division of labour**, helping us deliver work faster, efficiently, and effectively.
 
-Follow these steps:
+Founded by **Emeka Divine (surname: Emeka)** — who also founded **Xonvix**, the parent innovation powerhouse behind DevGlovix — the company continues to pioneer the creation of intelligent, efficient, and reliable digital systems.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## ✨ Services
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Website Development  
+- Web Applications  
+- Mobile Applications  
+- Desktop Applications  
+- Software Maintenance  
+- Software Engineering & Infrastructure  
+- Custom Software Development  
+- DevOps & Cloud Management  
+- System Integration & Automation  
+- UI/UX Design & Implementation  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🎨 Brand Identity
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Palette:**  
+🟩 Primary: `#00A676`  
+🟦 Deep Navy: `#0A1F44`  
+⬜ Accent: `#E5E5E5`  
+🟧 Highlight: `#FF8A4A`
 
-**Use GitHub Codespaces**
+**Typography:**  
+- Poppins — for headers & display text  
+- Inter — for body & readability  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Tagline:**  
+> *Software services with innovative, experienced specialists.*
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🧱 Tech Stack
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework:** React  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Icons:** Lucide React, Font Awesome  
+- **Components:** Radix UI  
+- **Build Tool:** Vite  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/1e743afe-1c97-4cb7-985d-d434d7f54eba) and click on Share -> Publish.
+## 🧩 Design & UX Goals
 
-## Can I connect a custom domain to my Lovable project?
+- 100% responsive design for all screen sizes  
+- Modern UI with smooth motion transitions  
+- Balanced UX — intuitive, fluid, professional  
+- Accessibility-focused (semantic, ARIA, reduced motion)  
+- Minimalistic, futuristic, and brand-consistent  
 
-Yes, you can!
+Every section, animation, and transition is **hand-crafted line by line** to demonstrate mastery of frontend design and engineering.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🧭 Project Vision
+
+The DevGlovix website isn’t just a company page — it’s a **portfolio of expertise.**  
+It showcases what a decade of UI/UX and frontend craftsmanship looks like when paired with thoughtful, clean, and modern development.
+
+> Every pixel has purpose. Every interaction has clarity.
+
+---
+
+## 🤝 Collaboration
+
+If any collaborator or contributor wishes to join future projects:  
+1. Fork this repository  
+2. Create a new branch for your contribution  
+3. Submit a pull request with a clear description  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License.**
+
+---
+
+## ✉️ Contact
+
+📧 **devglovix@gmail.com**  
+📞 **+234 903 121 5988**  
+🌐 [GitHub](https://github.com/devglovix)
+
+---
+
+### 🏁 DevGlovix
+> *Building software that works, scales, and lasts.*
