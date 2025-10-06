@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 215 74% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 74% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 74% 15%;
+
+    --primary: 163 100% 33%;
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 163 100% 28%;
+
+    --secondary: 215 74% 15%;
+    --secondary-foreground: 0 0% 100%;
+    --secondary-hover: 215 74% 12%;
+
+    --accent: 20 100% 64%;
+    --accent-foreground: 0 0% 100%;
+    --accent-hover: 20 100% 58%;
+
+    --muted: 0 0% 90%;
+    --muted-foreground: 215 15% 45%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 163 100% 33%;
+
+    --radius: 0.75rem;
+
+    /* Custom gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(163 100% 33%), hsl(163 100% 40%));
+    --gradient-hero: linear-gradient(135deg, hsl(215 74% 15%), hsl(215 74% 20%));
+    --gradient-accent: linear-gradient(135deg, hsl(20 100% 64%), hsl(20 100% 70%));
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 8px -2px hsl(215 74% 15% / 0.08);
+    --shadow-md: 0 4px 16px -4px hsl(215 74% 15% / 0.12);
+    --shadow-lg: 0 8px 32px -8px hsl(215 74% 15% / 0.16);
+    --shadow-glow: 0 0 40px hsl(163 100% 33% / 0.3);
+
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+
+  .dark {
+    --background: 215 74% 15%;
+    --foreground: 0 0% 100%;
+
+    --card: 215 74% 18%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 215 74% 18%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 163 100% 33%;
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 163 100% 40%;
+
+    --secondary: 215 74% 25%;
+    --secondary-foreground: 0 0% 100%;
+    --secondary-hover: 215 74% 30%;
+
+    --accent: 20 100% 64%;
+    --accent-foreground: 0 0% 100%;
+    --accent-hover: 20 100% 70%;
+
+    --muted: 215 74% 25%;
+    --muted-foreground: 0 0% 70%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 74% 25%;
+    --input: 215 74% 25%;
+    --ring: 163 100% 40%;
+
+    --shadow-sm: 0 2px 8px -2px hsl(0 0% 0% / 0.3);
+    --shadow-md: 0 4px 16px -4px hsl(0 0% 0% / 0.4);
+    --shadow-lg: 0 8px 32px -8px hsl(0 0% 0% / 0.5);
+    --shadow-glow: 0 0 40px hsl(163 100% 33% / 0.4);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
