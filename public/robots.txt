@@ -12,3 +12,10 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Prevent crawling of any admin or config folders (optional)
+Disallow: /node_modules/
+Disallow: /config/
+
+# Sitemap location
+Sitemap: https://devglovix.vercel.app/sitemap.xml
